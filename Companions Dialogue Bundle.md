@@ -3,15 +3,15 @@
 ### "Well that's taken care of, no thanks to you"
 
 - It was already dead before I got here
-  - Well, anyways...
-  - I guess so...
+  - Ah.. my mistake
+  - I guess so. I'm sorry
 - You killed it before I had a chance to help
   - I guess so...
   - You're right, sorry.
 
 ### "You handle yourself well, you could make for a decent shield-[brother/sister]"
 
-- Shield-[brother/sister]? So you're Companions?
+- So you are Companions?
   - We are. If you think you got what it takes, come to Jorrvaskr.
 
 
@@ -20,7 +20,9 @@
 If you haven't joined the Companions, you can ask any member of the Circle if you can join. They'll tell you to talk to Kodlak, but not where to find him as you have to rely on quest markers for this. One new line has been added to ask where Kodlak can be found.
 
 - Where can I find Kodlak?
-  - Check downstairs in the living quarters.
+  - Try downstairs in the living quarters. (Skjor)
+  - How should I know? He's around here somewhere, check downstairs. (Farkas)
+  - Check downstairs in his room. At the end of the hall. (Aela)
 
 Before witnessing your shield-sibling turn into a werewolf, you can now ask Skjor about being a werewolf, but you must've joined the Companions.
 
