@@ -20,9 +20,9 @@
 If you haven't joined the Companions, you can ask any member of the Circle if you can join. They'll tell you to talk to Kodlak, but not where to find him as you have to rely on quest markers for this. One new line has been added to ask where Kodlak can be found.
 
 - Where can I find Kodlak?
-  - Try downstairs in the living quarters. (Skjor)
-  - How should I know? He's around here somewhere, check downstairs. (Farkas)
-  - Check downstairs in his room. At the end of the hall. (Aela)
+  - He's probably in his quarters in Jorrvaskr. Just head downstairs and you'll find his room at the end of the hall. (Skjor)
+  - How should I know? He's most likely in Jorrvaskr, in his quarters. (Farkas)
+  - Kodlak? You'll most likely find him in his quarters in Jorrvaskr. (Aela)
 
 Before witnessing your shield-sibling turn into a werewolf, you can now ask Skjor about being a werewolf, but you must've joined the Companions.
 
