@@ -89,15 +89,15 @@ For when the player is Harbinger:
 ### Vilkas
 
 - You know, knowledge is a weapon in itself.
-- Remember, preparation is key. Stock up on potions, sharpen your weapons, and wear the best armor you can find.
-- Remember to take care of your equipment.
+- A well-prepared warrior is a formidable one.
+- Stay vigilant, danger lurks in every corner.
 - Even the mightiest warriors need time to recharge.
 - Learn from your defeats. Every battle, every loss holds a lesson.
 
 ### Farkas
 
 - A true warrior knows when to fight and when to show mercy.
-- Ttrue strength comes from mastering your emotions.
+- True strength comes from mastering your emotions.
 - We fight as a pack, and our strength lies in our unity.
 
 ### Aela
