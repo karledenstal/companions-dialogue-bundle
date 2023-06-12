@@ -86,6 +86,26 @@ For when the player is Harbinger:
 - I may not always see eye to eye with you, but I respect your position, Harbinger.
 - You've earned your place as our leader through hard work and dedication.
 
+### Vilkas
+
+- You know, knowledge is a weapon in itself.
+- Remember, preparation is key. Stock up on potions, sharpen your weapons, and wear the best armor you can find.
+- Remember to take care of your equipment.
+- Even the mightiest warriors need time to recharge.
+- Learn from your defeats. Every battle, every loss holds a lesson.
+
+### Farkas
+
+- A true warrior knows when to fight and when to show mercy.
+- Ttrue strength comes from mastering your emotions.
+- We fight as a pack, and our strength lies in our unity.
+
+### Aela
+
+- When I'm out there, tracking prey and feeling the wind on my face, I know I'm where I'm meant to be.
+- The moon's light guides our path. There's a certain power that comes with embracing our inner beasts.
+- Patience and perseverance are the keys to a successful hunt.
+
 ## New Scenes
 
 ### Aela & Njada
