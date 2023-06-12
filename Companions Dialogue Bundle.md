@@ -34,7 +34,7 @@ When you ask the Circle members if you can join, they will all point you towards
 
 Before witnessing your shield-sibling turn into a werewolf, you can now ask Skjor about being a werewolf, but you must've joined the Companions.
 
-- Is it true that you're a werewolf?
+- I've heard rumours about the Circle being werewolves. Is it true?
   - I don't know who you've been talking to, but they were clearly mistaken. Especially for a new whelp, you should choose your words more carefully.
 
 After having witnessed the transformation from Farkas, you can ask Skjor about being a werewolf.
