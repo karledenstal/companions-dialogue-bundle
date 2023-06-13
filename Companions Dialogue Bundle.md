@@ -104,8 +104,33 @@ For when the player is Harbinger:
 
 ### Skjor
 
+Skjor is one of the most under-utilized characters in the Companions. Probably because he dies fairly early.
+The thing is, it's hard to care about his death because you never really get to know him. And after his death no one really mentions him. 
+This mods adds some new dialogue that you can unlock as you progress through the Companions questline.
+
+#### **Misc Dialogue**
+
 - What do you want? Make it quick.
 - Spare me the idle chatter, we have business to attend to.
+
+#### **Any advice?**
+
+You can now ask Skjor for some advice as you journey through the Companions questline. There are 6 different pieces of advice, and they will each grant a small little buff to you for a short period of time.
+
+- Courage is not the absence of fear, but the will to face it head-on. Embrace your fears, and they will become your allies.
+- In battle, focus on your instincts and let them guide you. Trust yourself.
+- Learn from your failures, for they are the stepping stones to greatness.
+- The path of a warrior is filled with challenges, but with each trial, you grow stronger. Embrace the journey.
+- The Companions are bound by honor and loyalty. Protect those in need, and they will find strength in your presence.
+- Remember, a leader leads by example, not just with words. Show your comrades the way with unwavering resolve.
+
+#### **War Stories**
+
+Skjor fought in the Great War, so naturally he has some stories to tell. A new line by Ria even mentions about the stories a bit. Now you can ask him about his stories. He has 3 ones to tell at different times during the questline, so make sure to check in with him.
+
+- A victory forged in fire.
+- In the face of overwhelming odds.
+- The indomitable spirit of warriors.
 
 ## New Scenes
 
