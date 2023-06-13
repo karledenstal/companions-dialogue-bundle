@@ -58,13 +58,10 @@ When the player is Harbinger:
 - The mead flows freely, my friend! Just don't expect me to hold my liquor as well as I hold a battleaxe.
 - Don't let my drunken demeanor fool you. When it's time to raise arms, I'm as focused as a bear on the hunt.
 - Give me a brawl and a mug of ale any day, and I'm a happy warrior.
-- I've been known to get a bit rowdy when I've had a few too many. But I'm always ready to fight when the time comes.
-- Let the others have their neat appearance and tidy manners.
 
 When the player is Harbinger:
 
 - Being Harbinger means you've got the weight of the pack on your shoulders. I don't envy you.
-- Just remember, the Companions are more than titles and positions. We're family.
 - Keep leading, and I'll keep swinging my axe for you.
 - How about celebrating our victories with a drink? My treat, of course.
 
