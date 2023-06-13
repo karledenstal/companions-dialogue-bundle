@@ -27,10 +27,7 @@ When you ask the Circle members if you can join, they will all point you towards
 ### Njada
 
 - Keep your distance, unless you want to taste the sharp end of my blade
-- Weakness is a luxury we can't afford. If you can't pull your weight, get out of my way.
-- Skjor always said, "The battlefield is no place for the weak." Remember that or step aside.
 - Go bother someone else.
-- Weaklings don't last long in the Companions. If you can't handle the heat, get out before you get burned.
 - Don't mistake my bluntness for rudeness. I simply don't have time to coddle the fragile egos of others.
 - The world outside is harsh and unforgiving. If you want to survive, toughen up and stop expecting handouts.
 
@@ -38,13 +35,14 @@ When the player is Harbinger:
 
 - What do you need? I'm at your service.
 - I may not say it often, but your skill and dedication inspire us all
-- Your actions speak louder than words. Your commitment to our cause is unwavering, and I respect you for it.
 
 ### Athis
 
-- Let me tell you, a well-placed strike from a small blade can be just as lethal as any big weapon.
+- A well-placed strike from a small blade can be just as lethal as any big weapon.
 - They say the bigger they are, the harder they fall. Well, I say the smaller the blade, the faster they bleed.
-- Don't underestimate the power of a small blade in the hands of someone who knows how to use it
+- I walk with the spirits of my ancestors, guiding my every step.
+- Sorry, can't talk right now.
+- Don't you have something more important to do?
 
 When the player is Harbinger:
 
@@ -81,7 +79,7 @@ For when the player is Harbinger:
 
 - Do you have any guidance for me, Harbinger?
 - I may not always see eye to eye with you, but I respect your position, Harbinger.
-- You've earned your place as our leader through hard work and dedication.
+- I hope you don't take this the wrong way, but I miss Kodlak.
 
 ### Vilkas
 
