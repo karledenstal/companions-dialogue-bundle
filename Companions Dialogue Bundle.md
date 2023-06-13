@@ -88,14 +88,16 @@ For when the player is Harbinger:
 - You know, knowledge is a weapon in itself.
 - A well-prepared warrior is a formidable one.
 - Stay vigilant, danger lurks in every corner.
-- Even the mightiest warriors need time to recharge.
 - Learn from your defeats. Every battle, every loss holds a lesson.
+- I've been sleeping great ever since I got free from that beast. (play after cleansing Vilkas)
+- I know I'm no Skjor, but I'm by your side if you need me, Harbinger.
 
 ### Farkas
 
 - A true warrior knows when to fight and when to show mercy.
-- True strength comes from mastering your emotions.
+- Do you think Kodlak is arm-wrestling Ysgramor right now?
 - We fight as a pack, and our strength lies in our unity.
+- I've been thinking much clearer since Ysgramor's Tomb. (play after cleansing Farkas)
 
 ### Aela
 
