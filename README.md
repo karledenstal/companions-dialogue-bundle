@@ -31,7 +31,7 @@ This is just the first part of the mod, look forward to more in this series in t
 	- Let Aela be your shield-sibling
 	- Smaller tweaks to the Companions
 - Companions Restoration Project - Harbinger Expansion (W.I.P)
-	- Will let you ask Kodlak for advice as you progreess through the main questline.
+	- Will let you ask Kodlak for advice as you progress through the main questline.
 	- Will let you ask for advice from the Circle members.
 	- Help the Circle members with some new issues that arise.
 	- Adds an initiation scene for you as the Harbinger.
