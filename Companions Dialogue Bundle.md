@@ -87,7 +87,6 @@ For when the player is Harbinger:
 - A well-prepared warrior is a formidable one.
 - Stay vigilant, danger lurks in every corner.
 - Learn from your defeats. Every battle, every loss holds a lesson.
-- I've been sleeping great ever since I got free from that beast. (play after cleansing Vilkas)
 - I know I'm no Skjor, but I'm by your side if you need me, Harbinger.
 
 ### Farkas
