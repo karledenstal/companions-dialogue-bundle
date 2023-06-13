@@ -175,6 +175,3 @@ Aela: "You want to come hunting with me? It takes more than just shooting arrows
 Ria: "I know, Aela. I've been studying your techniques, and I can't wait to put them into practice. Plus, spending time together would be nice."
 Aela: "Alright, I'll give you a chance. But remember, hunting is about survival and respect for nature."
 Ria: "I understand, Aela."
-
-## Proving Honor
-
