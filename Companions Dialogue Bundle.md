@@ -102,6 +102,11 @@ For when the player is Harbinger:
 - The moon's light guides our path. There's a certain power that comes with embracing our inner beasts.
 - Patience and perseverance are the keys to a successful hunt.
 
+### Skjor
+
+- What do you want? Make it quick.
+- Spare me the idle chatter, we have business to attend to.
+
 ## New Scenes
 
 ### Aela & Njada
