@@ -157,16 +157,6 @@ Skjor fought in the Great War, so naturally he has some stories to tell. A new l
 
 ## New Scenes
 
-### Aela & Njada
-
-After Skjors death, you may encounter a scene between Aela & Njada talking about Skjor.
-
-Njada: "I can't believe Skjor is gone."
-Aela: "Yeah, it hit us all. Skjor was a damn fine warrior."
-Njada: "We'll get through it, Aela. Skjor wouldn't want us wallowing in grief."
-Aela: "We have a duty to honor his memory, to keep fighting. That's what he believed in."
-Njada: "We'll make him proud, in our own way."
-
 ### Vilkas & Farkas
 
 You may encounter a new scene between Vilkas & Farkas where they talk about sharpening blades.
@@ -197,7 +187,7 @@ Ria: "Mind if I join you on your hunt? I've been practicing my archery skills, a
 Aela: "You want to come hunting with me? It takes more than just shooting arrows, you know."
 Ria: "I know, Aela. I've been studying your techniques, and I can't wait to put them into practice. Plus, spending time together would be nice."
 Aela: "Alright, I'll give you a chance. But remember, hunting is about survival and respect for nature."
-Ria: "I understand, Aela."
+Ria: "So see you tomorrow morning then?"
 
 ### Skjors Goodbye
 

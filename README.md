@@ -13,7 +13,7 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 	- Ask Skjor if he has any advice for you. (There are 6 possible to hear and will give a small buff for a short period of time)
 	- Throughout the main questline you will find some new dialogue options.
 	- Adds a funeral scene for Skjor.
-	- Adds new scenes between Companion members (Aela & Njada, Aela & Ria, Farkas & Vilkas, Ria & Torvar)
+	- Adds new scenes between Companion members (Aela & Ria, Farkas & Vilkas & Ria & Torvar so far)
 - Adds new misc dialogue to various Companion members.
 	- All the minor Companions (Njada, Ria, Athis & Torvar) will have new lines of misc dialogue so you don't have to hear the same 2-3 lines over and over again.
 	- All the Circle members (Aela, Farkas, Vilkas & Skjor) will have a few lines of misc dialogue added as well.
