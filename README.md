@@ -26,6 +26,10 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 
 It won't drastically change the way you play the game or add any overwhelming features, but hopefully it can enhance your roleplay experience, and make it feel a little fresh again. And especially breathe some new life into the Companions.
 
+## Known things
+
+- It's not flagged as an ESL, as I remembered it too late & I would have to redo all lines of dialogue. I might do it in the future since I have all dialogue saved, but for now it's not. Sorry about that.
+
 ## Other
 
 Please feel free to check out my other mods as well. I'm working on more improvments to the Companions, so stay tuned.
