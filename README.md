@@ -11,12 +11,11 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 	- Ask the Circle members where you can find Kodlak. (So you don't have to rely on the quest marker constantly)
 	- Ask Skjor if he has any awesome stories from the Great War.
 	- Ask Skjor if he has any advice for you. (There are 6 possible to hear and will give a small buff for a short period of time)
-	- Throughout the main questline you will find some new dialogue options.
-	- Adds a funeral scene for Skjor.
-	- Adds new scenes between Companion members (Aela & Ria, Farkas & Vilkas & Ria & Torvar so far)
+	- Adds new scenes between Companion members (Aela & Ria, Farkas & Vilkas, Ria & Torvar so far)
 - Adds new misc dialogue to various Companion members.
 	- All the minor Companions (Njada, Ria, Athis & Torvar) will have new lines of misc dialogue so you don't have to hear the same 2-3 lines over and over again.
 	- All the Circle members (Aela, Farkas, Vilkas & Skjor) will have a few lines of misc dialogue added as well.
+- While not dialogue related, this mod fixes the issue where the Companion who has given you a quest just stands by the door. This mod fixes that so that scenes can play out more organically.
 
 It won't drastically change the way you play the game or add any overwhelming features, but hopefully it can enhance your roleplay experience, and make it feel a little fresh again. And especially breathe some new life into the Companions.
 
