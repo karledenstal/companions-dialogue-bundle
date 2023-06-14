@@ -149,7 +149,7 @@ Entitled response effect: "Skjor's Challenge"
 
 #### **War Stories**
 
-Skjor fought in the Great War, so naturally he has some stories to tell. A new line by Ria even mentions about the stories a bit. Now you can ask him about his stories. He has 3 ones to tell at different times during the questline, so make sure to check in with him.
+Skjor fought in the Great War, so naturally he has some stories to tell. A new line by Ria even mentions about the stories a bit. Now you can ask him about his stories. These are inspired by Canderous war stories from Knights of the Old Republic, but of course more linear and shorter. If you like them, I might add more stories like this to other companions.
 
 - A victory forged in fire.
 - In the face of overwhelming odds.
