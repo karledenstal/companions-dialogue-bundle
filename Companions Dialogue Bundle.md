@@ -198,3 +198,11 @@ Aela: "You want to come hunting with me? It takes more than just shooting arrows
 Ria: "I know, Aela. I've been studying your techniques, and I can't wait to put them into practice. Plus, spending time together would be nice."
 Aela: "Alright, I'll give you a chance. But remember, hunting is about survival and respect for nature."
 Ria: "I understand, Aela."
+
+### Skjors Goodbye
+
+After Skjors death, you will be invited to a new scene where the Circle members say goodbye to Skjor in the Underforge.
+
+Aela: "Skjor, we'll miss you. You were a true warrior, and a great friend. Enjoy the hunt, my brother."
+Farkas: "Skjor, you were a mentor to me, and a brother. I'll never forget you. May the Hunting Grounds welcome you with open arms."
+Vilkas: "Skjor, you were a true warrior, and a great leader. I'll never forget the lessons you taught me. Talos guide you, my brother."
