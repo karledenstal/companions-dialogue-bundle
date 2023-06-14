@@ -130,6 +130,23 @@ You can now ask Skjor for some advice as you journey through the Companions ques
 - Remember, a leader leads by example, not just with words. Show your comrades the way with unwavering resolve. (Leadership)
 	- Skjors words fills you with inspiration to command & lead. All your followers gain +25 to Health & Stamina for 6 hours.
 
+Once all advice has been exhausted, Skjor will say:
+
+- "I got no more advice for you, whelp. Seek your own path now."
+
+The player can respond with:
+
+- "Thank you for your guidance. I'll keep your advice in mind."
+	- Skjor: "You've grown. Remember, the true strength lies within you. Forge your own destiny with the wisdom you've gained"
+- "Is that all? I was hoping for more."
+	- Skjor: "You've got fire in your words, but remember, true strength is earned, not entitled. Find your own path, prove your worth, and perhaps then you'll understand."
+
+Grateful response effect: "Skjor's Wisdom"
+	- Blessed with Skjor's wisdom, your abilities are enhanced, granting you a heightened sense of purpose and increased proficiency in your chosen skills.
+Entitled response effect: "Skjor's Challenge"
+	- In response to your entitled attitude, Skjor presents you with a challenge. Your journey ahead will be more arduous, but through perseverance, you have the potential to prove yourself and unlock hidden reserves of strength.
+
+
 #### **War Stories**
 
 Skjor fought in the Great War, so naturally he has some stories to tell. A new line by Ria even mentions about the stories a bit. Now you can ask him about his stories. He has 3 ones to tell at different times during the questline, so make sure to check in with him.
