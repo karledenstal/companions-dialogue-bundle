@@ -24,7 +24,7 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 	- Vilkas, Farkas & Aela have some new misc dialogue, but not as much as the minor Companions do.
 - While not dialogue related, this mod fixes the issue where the Companion who has given you a quest just stands by the door. This mod fixes that so that scenes can play out more organically.
 
-It won't drastically change the way you play the game or add any overwhelming features, but hopefully it can enhance your roleplay experience, and make it feel a little fresh again. And especially breathe some new life into the Companions.
+It won't drastically change the way you play the game or add any overwhelming features, but hopefully it can enhance your roleplay experience, and make it feel fresh again. And especially breathe some new life into the Companions.
 
 ## Known things
 
