@@ -189,6 +189,45 @@ Ria: "I know, Aela. I've been studying your techniques, and I can't wait to put 
 Aela: "Alright, I'll give you a chance. But remember, hunting is about survival and respect for nature."
 Ria: "So see you tomorrow morning then?"
 
+### Ria & Njada
+
+You may encounter a new scene between Ria & Njada.
+
+Ria: "Any pointers on my sword and shield technique?"
+Njada: "Seriously Ria? You swing that sword like a blind mammoth. Try moving your feet for once."
+Ria: "Alright, no need to be so snarky"
+Njada: "Just stating the obvious. Keep practicing, maybe you'll catch up someday"
+
+### Athis & Njada
+
+You may encounter a new scene between Athis & Njada.
+
+Athis: "Don't think I'm impressed just because you won that stupid fist fihgt"
+Njada: "Oh, look who's bitter. Can't handle losing?"
+Athis: "Oh shut it. It was a fluke and you know it"
+Njada: "Fluke or not, I still came out on top. Deal with it, loser"
+Athis: "You won't have the upper hand forever. I'll make sure of it."
+
+### Skjor & Vilkas
+
+You may encounter a new scene between Skjor & Vilkas.
+
+Skjor: "You've got a spring in your step today. Got someone on your mind, do you?"
+Vilkas: "Oh come on, Skjor. Can't I just enjoy the day without your teasing?"
+Skjor: "Teasing? Me? Never. But I've seen that look before, my friend. Don't deny it!"
+Vilkas: "Fine, you caught me. There might be someone who caught my eye, but that is all there is to it."
+Skjor: "Vilkas, you sly dog. Keep me updated, alright? I want all the gossip."
+
+### Aela & Farkas
+
+You may encounter a new scene between Aela & Farkas.
+
+Aela: "Farkas, you ever think about what we'd do if we weren't Companions?"
+Farkas: "My mind can barely fathom a life without battling beasts and sharing mead with you lot."
+Aela: "Hah, you're right. I can't picture us doing anything else but hunting and causing mayhem."
+Farkas: "Maybe we could open a tavern someday? Where the mead flows and the bards sing of our epic battles."
+Aela: "I like the way you think, Farkas. A place where warriors can unwind and share their tales. Count me in!"
+
 ### Skjors Goodbye
 
 After Skjors death, you will be invited to a new scene where the Circle members say goodbye to Skjor in the Underforge.
