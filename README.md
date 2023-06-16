@@ -11,7 +11,6 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 	- Ask the Circle members where you can find Kodlak. (So you don't have to rely on the quest marker constantly)
 	- Ask Skjor if he has any awesome stories from the Great War.
 	- Ask Skjor if he has any advice for you.
-		- There are 6 possible to hear and will give a small buff for a short period of time
 - Adds 7 new scenes between Companions
 	- Aela & Ria
 	- Farkas & Vilkas
