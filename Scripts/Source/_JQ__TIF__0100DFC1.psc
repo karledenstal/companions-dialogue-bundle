@@ -7,6 +7,7 @@ Function Fragment_0(ObjectReference akSpeakerRef)
 Actor akSpeaker = akSpeakerRef as Actor
 ;BEGIN CODE
 (GetOwningQuest() as SkjorAdviceScript).RegisterAdviceAsGiven()
+(GetOwningQuest() as SkjorAdviceScript).ApplyEffect()
 ;END CODE
 EndFunction
 ;END FRAGMENT

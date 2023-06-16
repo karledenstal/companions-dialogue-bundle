@@ -117,18 +117,16 @@ This mods adds some new dialogue that you can unlock as you progress through the
 
 You can now ask Skjor for some advice as you journey through the Companions questline. There are 6 different pieces of advice, and they will each grant a small little buff to you for a short period of time.
 
+Buff granted:
+
+**Inspired** - 10% increased skill gain in all Warrior skills for 6 hour
+
 - Courage is not the absence of fear, but the will to face it head-on. Embrace your fears, and they will become your allies. (Courage)
-	- Skjors words fills you with courage, determination & confidence. You gain 15 points to Health & Stamina for 6 hours.
 - In battle, focus on your instincts and let them guide you. Trust yourself. (Focus)
-	- Skjors words fills you with a dedicated focus, your perception and concentration heightened. You gain 25% critical chance for 6 hours.
 - Learn from your failures, for they are the stepping stones to greatness. (Introspection)
-	- Skjors words fills you with a profound sense of self-awareness. You gain 1 perk point & you learn all Warrior skills 5% faster for 6 hours.
 - The path of a warrior is filled with challenges, but with each trial, you grow stronger. Embrace the journey. (Perseverance)
-	- Skjors words fills you with a relentless surge of unwavering determination. You gain +5 to Block for 6 hours.
 - The Companions are bound by honor and loyalty. Protect those in need, and they will find strength in your presence. (Strength)
-	- Skjors words fills you with a surge of strength and vitality. You gain +5 to One-Handed/Two-handed for 6 hours.
 - Remember, a leader leads by example, not just with words. Show your comrades the way with unwavering resolve. (Leadership)
-	- Skjors words fills you with inspiration to command & lead. All your followers gain +25 to Health & Stamina for 6 hours.
 
 Once all advice has been exhausted, Skjor will say:
 
