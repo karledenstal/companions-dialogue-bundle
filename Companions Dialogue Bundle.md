@@ -202,7 +202,7 @@ Njada: "Just stating the obvious. Keep practicing, maybe you'll catch up someday
 
 You may encounter a new scene between Athis & Njada.
 
-Athis: "Don't think I'm impressed just because you won that stupid fist fihgt"
+Athis: "Don't think I'm impressed just because you won that stupid fist fight"
 Njada: "Oh, look who's bitter. Can't handle losing?"
 Athis: "Oh shut it. It was a fluke and you know it"
 Njada: "Fluke or not, I still came out on top. Deal with it, loser"
