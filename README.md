@@ -13,13 +13,13 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 	- Ask Skjor if he has any advice for you.
 		- There are 6 possible to hear and will give a small buff for a short period of time
 - Adds new scenes between Companions
-	- Aela & Ria will have a scene where Ria asks to join Aela on a hunt.
-	- Farkas & Vilkas will have a brotherly scene about taking care of weapons.
-	- Ria & Torvar will have a scene where Torvar asks Ria out.
-	- Njada & Athis will have a scene discussing the fist fight they had.
-	- Ria & Njada will have a scene where Ria asks for some pointers.
-	- Aela & Farkas will have a scene of friendly banter.
-	- Skjor & Vilkas will have a scene of friendly banter.
+	- Aela & Ria
+	- Farkas & Vilkas
+	- Ria & Torvar
+	- Njada & Athis
+	- Ria & Njada
+	- Aela & Farkas
+	- Skjor & Vilkas
 - Adds new misc dialogue to various Companion members.
 	- Njada will have more misc dialogue with her usual attitude.
 	- Ria will have more random dialogue to counter the two repetitive lines she has.
