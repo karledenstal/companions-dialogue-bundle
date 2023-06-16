@@ -12,7 +12,7 @@ This mod adds a 100-something lines of new (voiced) dialogue to the Companions. 
 	- Ask Skjor if he has any awesome stories from the Great War.
 	- Ask Skjor if he has any advice for you.
 		- There are 6 possible to hear and will give a small buff for a short period of time
-- Adds new scenes between Companions
+- Adds 7 new scenes between Companions
 	- Aela & Ria
 	- Farkas & Vilkas
 	- Ria & Torvar

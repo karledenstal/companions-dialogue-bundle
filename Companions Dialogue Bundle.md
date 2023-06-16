@@ -227,11 +227,3 @@ Farkas: "My mind can barely fathom a life without battling beasts and sharing me
 Aela: "Hah, you're right. I can't picture us doing anything else but hunting and causing mayhem."
 Farkas: "Maybe we could open a tavern someday? Where the mead flows and the bards sing of our epic battles."
 Aela: "I like the way you think, Farkas. A place where warriors can unwind and share their tales. Count me in!"
-
-### Skjors Goodbye
-
-After Skjors death, you will be invited to a new scene where the Circle members say goodbye to Skjor in the Underforge.
-
-Aela: "Skjor, we'll miss you. You were a true warrior, and a great friend. Enjoy the hunt, my brother."
-Farkas: "Skjor, you were a mentor to me, and a brother. I'll never forget you. May the Hunting Grounds welcome you with open arms."
-Vilkas: "Skjor, you were a true warrior, and a great leader. I'll never forget the lessons you taught me. Talos guide you, my brother."
