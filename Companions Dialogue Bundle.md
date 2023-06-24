@@ -225,3 +225,133 @@ Farkas: "My mind can barely fathom a life without battling beasts and sharing me
 Aela: "Hah, you're right. I can't picture us doing anything else but hunting and causing mayhem."
 Farkas: "Maybe we could open a tavern someday? Where the mead flows and the bards sing of our epic battles."
 Aela: "I like the way you think, Farkas. A place where warriors can unwind and share their tales. Count me in!"
+
+## Quest Related Dialogue
+
+In order to make the Companions feel more alive and reactive to what happens in the questline, but also generally in the world, I've added more dialogue & scenes to the Companions.
+
+### After Take Up Arms
+
+You may encounter a new scene between Skjor & Vignar.
+
+Vignar: I saw Vilkas training with the new blood.
+Skjor: Yes, a promising recruit. And right after we took in Ria too.
+Vignar: It's good to see the Companions growing. I was worried we'd become too complacent.
+Skjor: Don't worry, Vignar. We'll keep the old traditions alive. And we'll make sure the new blood does too.
+Vignar: I trust you, Skjor.
+
+### After Proving Honor
+
+Njada:
+- So they're really let you in, huh? I guess we'll see if you're worth it.
+- Since you're a Companion now, I guess I'll have to tolerate you.
+- If you need any training with a shield, let me know. I'll show you how it's done.
+
+Athis:
+- I can't believe they let you in. I guess we'll see if you can handle yourself.
+- Just because you're a Companion now, doesn't mean I'll go easy on you.
+
+Torvar:
+- Ah, welcome to the Companions. I'm sure you'll fit right in.
+
+Ria:
+- I'm glad you're a Companion now. I'm sure we'll have a lot of fun together.
+- You made it through the trial? Congratulations.
+- I wish my trial was as exciting as yours.
+
+### After The Silver Hand
+
+You may encounter a new scene between Aela & Njada:
+
+Njada: I can't believe Skjor is gone.
+Aela: I know, it doesn't feel real. I keep expecting him to walk through the door.
+Njada: At least he died fighting. He wouldn't have wanted it any other way.
+Aela: That's true. He was a true warrior, and a true Companion.
+Njada: And a true Shield-Brother. We'll never forget him.
+Aela: Never, shield-sister.
+
+**Skjor's Farewell**
+
+After Skjor's death, you will be approached by Aela, who will tell you to gather the Companions to meet in the training yard to say their farewells to Skjor.
+
+Objective: Tell the Companions that Skjor has fallen, and to meet in the training yard. (0/7)
+
+- Skjor was killed by the Silver Hand.
+
+	**Farkas**
+
+	> "I know. I can't believe it. I'm going to miss him."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "I'll go there now. I'll see you there."
+
+	**Vilkas**
+
+	> "So it is true. I hope you gave those bastards a taste of their own medicine."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "That's a good idea. I'll gather some things and meet you there."
+
+	**Njada**
+
+	> "I heard. I wish I could have been there to help him."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "That's good, I'll meet you there."
+
+	**Ria**
+
+	> "Skjor? No, that can't be true. I'm sorry, I don't know what to say."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "Thanks for letting me know. I'll meet you there."
+
+	**Torvar**
+
+	> "I can't believe Skjor is gone. I'm going to need a moment."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "Sure, I'll meet you there."
+
+	**Athis**
+
+	> "If I had been there, I would have avenged him. I'm going to honor his memory."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "Of course. I'll meet you there."
+
+	**Vignar**
+
+	> "They got Skjor? Today is a sad day for the Companions."
+
+	- We're meeting in the training yard to say our farewells.
+
+	> "I'll be there. I'll see you there."
+
+Objective: Meet the Companions in the training yard.
+
+When you arrive in the training yard, you will see the Companions gathered around Skjor's memorial. Wait for the scene to play out.
+
+Kodlak: "Today we mourn the loss of a true warrior. Skjor was a Shield-Brother, a mentor, and a friend. Skjor, you will be missed. But your spirit will live on in the hearts of the Companions. And we will never forget you."
+Aela: "Skjor, you were a true warrior. And a true friend. I will miss you, Shield-Brother."
+Farkas: "You were always there for me, Skjor, ever since I was a whelp. I'll never forget you, Shield-Brother."
+Vilkas: "There was no one like you, Skjor. I wish I could've been there to help you. Farewell."
+Njada: "You were the best of us, Skjor. I'll never forget you."
+Ria: "I loved your stories, Skjor. I'll create new ones in your honor."
+Torvar: "You were a true warrior, Skjor. I'll miss you."
+Athis: "Their flame has been extinguished, but their memory will forever burn bright."
+Vignar: "I remember when you first joined the Companions. You had a fire in your heart, and a hunger for battle. You were a true warrior, Skjor. I'll miss you."
+
+Objective: Speak to Aela.
+
+Aela: "I'm glad you were here for this. I know Skjor would have wanted you to be here."
+- Of course, I'm glad I could be here.
+Aela: "Nothing will ever be the same without him. But for now, we must move on. We have work to do."
+
+Quest completed.
