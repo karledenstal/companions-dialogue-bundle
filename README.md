@@ -1,6 +1,6 @@
 # Companions Dialogue Bundle
 
-This mod adds a 100-something lines of new (voiced) dialogue to the Companions. It comes in new dialogue options, new misc dialogue for when you join the Companions and for when you are the Harbinger. I've kept a strong focus on keeping it as vanilla+ as possible and to not stray too far from the personalities of the Companions.
+This mod adds a 120+ lines of new (voiced) dialogue to the Companions. It comes in new dialogue options, new misc dialogue for when you join the Companions and for when you are the Harbinger. I've kept a strong focus on keeping it as vanilla+ as possible and to not stray too far from the personalities of the Companions.
 
 ## Features
 
